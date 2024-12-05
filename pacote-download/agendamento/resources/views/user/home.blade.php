@@ -41,7 +41,7 @@
         <div class="collapse navbar-collapse" id="navbarSupport">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-              <a style="color:white;" class="nav-link" href="{{url('/')}}">Dashboard</a>
+              <a style="color:white;" class="nav-link" href="{{url('/')}}">Quadro</a>
             </li> 
             <li class="nav-item">
               <a style="color:white;" class="nav-link" href="{{url('/myappointment')}}">Consultas</a>
